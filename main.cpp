@@ -13,6 +13,8 @@ void testGraph(const vector<string>& vertices,
     // Create a new graph
     Graph g;
 
+    //we bussin
+
     cout << "Creating graph..." << endl;
 
     // Add vertices
